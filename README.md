@@ -1,4 +1,4 @@
-#1 Hi, Im Tuomas Rantamäki
+# Hi, Im Tuomas Rantamäki
 
 - Im a BcS student in Aalto university studying Electrical Engineering
 
